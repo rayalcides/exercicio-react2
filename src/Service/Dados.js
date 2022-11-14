@@ -36,5 +36,4 @@ const livros = [
         imagem: 'https://m.media-amazon.com/images/I/812LD2FD9yL.jpg',
     }
 
-
 ]
