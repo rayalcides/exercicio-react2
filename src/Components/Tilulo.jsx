@@ -1,6 +1,6 @@
 function Titulo() {
     return(
-      <h1>Meus livros preferidos</h1>
+      <h1>Meus repositorios GIT</h1>
     )
 }
 
